@@ -1,1 +1,0 @@
-# django-docker-postgres-celery-redis
